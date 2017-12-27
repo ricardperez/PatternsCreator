@@ -10,3 +10,6 @@ The ui has been created with the QtDesigner (QtCreator). It has then been compil
 ```
 pyuic5 -o main_window.py ui/main_window.ui
 ```
+
+### Example
+![](http://gamesmelon.com/wp-content/uploads/2017/12/PatternsCreator-625x400.png "PatternsCreator screenshot")
